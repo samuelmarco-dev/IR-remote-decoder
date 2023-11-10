@@ -1,1 +1,1 @@
-# IR_remote-_decoder
+# IR-remote-decoder
